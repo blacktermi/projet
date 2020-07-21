@@ -36,3 +36,10 @@ body,html {
 #titreModal {
     text-align: center;
 }
+.js-modal-close {
+    border-radius: 20px 20px 20px 20px;
+}
+.X:hover {
+    cursor: pointer;
+}
+
